@@ -1,6 +1,7 @@
 {
-  "name": "homebridge-http-switch",
-  "version": "0.5.36",
+  "name": "themaz-homebridge-http-switch",
+  "displayName": "HTTP Switch and Lock",
+  "version": "0.6.0",
   "description": "Powerful http switch for Homebridge",
   "license": "ISC",
   "keywords": [
@@ -11,10 +12,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Supereg/homebridge-http-switch"
+    "url": "https://github.com/maziar-mastermind/homebridge-http-switch"
   },
   "bugs": {
-    "url": "https://github.com/Supereg/homebridge-http-switch/issues"
+    "url": "https://github.com/maziar-mastermind/homebridge-http-switch/issues"
   },
   "engines": {
     "node": ">=10.17.0",
